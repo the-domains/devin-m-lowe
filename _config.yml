@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8103071
+  brandStrength: 1
+  lightness: 0.4510638
+  brandColors:
+    - '#050405'
+    - '#0CF9FF'
+    - '#0242E9'
+    - '#FAFFFF'
+    - '#FF7FFF'
+  rhythmicContrast: 0.7
+typography_spectrum: 0.7574468
+name: Devin M Lowe
